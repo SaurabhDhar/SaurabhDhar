@@ -6,10 +6,11 @@ I'm a seasoned software engineer and technology enthusiast with 10 years of expe
 ## 🚀 About Me
 
 A serial entrepreneur, tech aficionado, and a firm believer in the power of growth hacking. With more than a decade in the IT and digital landscape, I've honed my skills in everything from full-stack development to digital marketing, building AI tools to SAAS products, and so much more. <br>
-<br>😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
-<br>🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
-<br>💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
-<br>
+
+- 😎 Meta API Expert, skilled in Facebook, Instagram & WhatsApp APIs.
+- 🎖️ Over 100 successful projects in Facebook & Instagram API development with 5-star reviews!
+- 💡 10+ years of full-stack development experience.
+  <br>
 
 ## ✅ Key Services
 
@@ -34,7 +35,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 [![website](./assets/instagram-dark.svg)](https://instagram.com/awaara_foodie)
 <br>
 <a href="https://calendly.com/saurabhdhar/let-s-talk">
-<img src="https://support.calendarhero.com/hc/article_attachments/19749957770263" style="max-width:20%;" />
+<img src="https://i0.wp.com/terralfletcher.com/wp-content/uploads/2023/10/schedule-a-call-button.png3" style="max-width: 20%;" />
 </a>
 <br>
 
