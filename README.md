@@ -1,6 +1,7 @@
 # 👋 Saurabh Dhar - Meta API Expert
 
 I'm a seasoned software engineer and technology enthusiast with 10 years of experience in the tech industry. I began my career developing Facebook apps and continue to be deeply involved in Meta API projects and development.
+[![Schedule a Meet](https://support.calendarhero.com/hc/article_attachments/19749957770263)](https://calendly.com/saurabhdhar/let-s-talk)
 
 ## 🚀 About Me
 
@@ -18,8 +19,6 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 
 ## 🤝 Connect with Me
 
-[![Schedule a Meet](https://img.shields.io/badge/Schedule-a%20meeting-blue.svg)](https://calendly.com/saurabhdhar/let-s-talk)
-&nbsp;&nbsp;
 [![website](./assets/globe-light.svg)](https://saurabhdhar.com)
 [![website](./assets/globe-dark.svg)](https://saurabhdhar.com)
 &nbsp;&nbsp;
@@ -47,7 +46,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 <img align="left" alt="Terminal" width="26px" src="./assets/terminal-dark.svg" />
 <br><br>
 Feel free to fork or star my repositories if you find them useful, and I'm always open to collaborating on interesting projects!
-
+<br> <br>
 <div align="center">
 <a href="https://wakatime.com/badge/user/601c4794-8f4d-4e71-b0d0-59ef5d57b700/project/d8782745-3b24-49ca-80a4-bb1b5a6b9f59"><img src="https://wakatime.com/badge/user/601c4794-8f4d-4e71-b0d0-59ef5d57b700/project/d8782745-3b24-49ca-80a4-bb1b5a6b9f59.svg" alt="wakatime"></a>
   <a href="https://visitcount.itsvg.in">
