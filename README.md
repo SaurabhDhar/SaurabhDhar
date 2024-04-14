@@ -5,10 +5,9 @@ I'm a seasoned software engineer and technology enthusiast with 10 years of expe
 ## 🚀 About Me
 
 A serial entrepreneur, tech aficionado, and a firm believer in the power of growth hacking. With more than a decade in the IT and digital landscape, I've honed my skills in everything from full-stack development to digital marketing, building AI tools to SAAS products, and so much more.
-
-- 😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
-- 🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
-- 💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+<br>😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
+<br>🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
+<br>💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
 
 ## ✅ Key Services
 
@@ -22,7 +21,6 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 [![website](./assets/globe-light.svg)](https://saurabhdhar.com)
 [![website](./assets/globe-dark.svg)](https://saurabhdhar.com)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![website](./assets/twitter-light.svg)](https://twitter.com/Saurabh_Dhar)
 [![website](./assets/twitter-dark.svg)](https://twitter.com/Saurabh_Dhar)
 &nbsp;&nbsp;
@@ -32,19 +30,19 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 [![website](./assets/instagram-light.svg)](https://instagram.com/awaara_foodie)
 [![website](./assets/instagram-dark.svg)](https://instagram.com/awaara_foodie)
 
-### Languages and Tools:
+## 🖥️ Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./assets/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./assets/terminal-dark.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./assets/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./assets/terminal-dark.svg" />
 
 Feel free to fork or star my repositories if you find them useful, and I'm always open to collaborating on interesting projects!
 
