@@ -34,10 +34,6 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 [![website](./assets/instagram-light.svg)](https://instagram.com/awaara_foodie)
 [![website](./assets/instagram-dark.svg)](https://instagram.com/awaara_foodie)
 <br>
-<a href="https://calendly.com/saurabhdhar/let-s-talk">
-<img src="https://i0.wp.com/terralfletcher.com/wp-content/uploads/2023/10/schedule-a-call-button.png" style="max-width: 20%;" />
-</a>
-<br>
 
 ## 🖥️ Languages and Tools
 
@@ -66,3 +62,8 @@ Feel free to fork or star my repositories if you find them useful, and I'm alway
     <img alt="github-snake" src="assets/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </picture>
 </div>
+<br>
+<a href="https://calendly.com/saurabhdhar/let-s-talk" target="_blank">
+<img src="https://i0.wp.com/terralfletcher.com/wp-content/uploads/2023/10/schedule-a-call-button.png" style="max-width: 20%;" />
+</a>
+<br>
