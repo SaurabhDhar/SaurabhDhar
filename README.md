@@ -1,7 +1,7 @@
 # 👋 Saurabh Dhar - Meta API Expert
 
 I'm a seasoned software engineer and technology enthusiast with 10 years of experience in the tech industry. I began my career developing Facebook apps and continue to be deeply involved in Meta API projects and development.
-[![Schedule a Meet](https://support.calendarhero.com/hc/article_attachments/19749957770263)](https://calendly.com/saurabhdhar/let-s-talk)
+<br>
 
 ## 🚀 About Me
 
@@ -9,6 +9,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 <br>😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
 <br>🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
 <br>💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+<br>
 
 ## ✅ Key Services
 
@@ -16,6 +17,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 **➡️ 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁:** Skilled in MySQL, PostgreSQL, MongoDB. <br>
 **➡️ 𝗢𝘁𝗵𝗲𝗿 𝗔𝗣𝗜 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀:** Google API, Linkedin API, Twitter API, Woocomerce API, Shopify API, OpenAI <br>
 **➡️ 𝗕𝗼𝘁𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** SAAS Products, AI/ML, CRM, Dashboards & Automated Scripts & Scheduler. <br>
+<br>
 
 ## 🤝 Connect with Me
 
@@ -30,6 +32,11 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 &nbsp;&nbsp;
 [![website](./assets/instagram-light.svg)](https://instagram.com/awaara_foodie)
 [![website](./assets/instagram-dark.svg)](https://instagram.com/awaara_foodie)
+<br>
+<a href="https://calendly.com/saurabhdhar/let-s-talk">
+<img src="https://support.calendarhero.com/hc/article_attachments/19749957770263" style="max-width:20%;" />
+</a>
+<br>
 
 ## 🖥️ Languages and Tools
 
