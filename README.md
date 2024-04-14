@@ -18,6 +18,8 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 
 ## 🤝 Connect with Me
 
+[![Schedule a Meet](https://img.shields.io/badge/Schedule-a%20meeting-blue.svg)](https://calendly.com/saurabhdhar/let-s-talk)
+&nbsp;&nbsp;
 [![website](./assets/globe-light.svg)](https://saurabhdhar.com)
 [![website](./assets/globe-dark.svg)](https://saurabhdhar.com)
 &nbsp;&nbsp;
@@ -57,9 +59,3 @@ Feel free to fork or star my repositories if you find them useful, and I'm alway
     <img alt="github-snake" src="assets/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </picture>
 </div>
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/saurabhdhar/let-s-talk', text: 'Schedule a Meet', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
-<!-- Calendly badge widget end -->
