@@ -6,16 +6,16 @@ I'm a seasoned software engineer and technology enthusiast with 10 years of expe
 
 A serial entrepreneur, tech aficionado, and a firm believer in the power of growth hacking. With more than a decade in the IT and digital landscape, I've honed my skills in everything from full-stack development to digital marketing, building AI tools to SAAS products, and so much more.
 
-😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
-🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
-💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+- 😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
+- 🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
+- 💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
 
 ## ✅ Key Services
 
-**➡️ 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** Proficient in PHP, Node, React, JavaScripts, Python,
-**➡️ 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁:** Skilled in MySQL, PostgreSQL, MongoDB.
-**➡️ 𝗢𝘁𝗵𝗲𝗿 𝗔𝗣𝗜 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀:** Google API, Linkedin API, Twitter API, Woocomerce API, Shopify API, OpenAI
-**➡️ 𝗕𝗼𝘁𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** SAAS Products, AI/ML, CRM, Dashboards & Automated Scripts & Scheduler.
+**➡️ 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** Proficient in PHP, Node, React, JavaScripts, Python <br>
+**➡️ 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁:** Skilled in MySQL, PostgreSQL, MongoDB. <br>
+**➡️ 𝗢𝘁𝗵𝗲𝗿 𝗔𝗣𝗜 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀:** Google API, Linkedin API, Twitter API, Woocomerce API, Shopify API, OpenAI <br>
+**➡️ 𝗕𝗼𝘁𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** SAAS Products, AI/ML, CRM, Dashboards & Automated Scripts & Scheduler. <br>
 
 ## 🤝 Connect with Me
 
@@ -34,15 +34,15 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="./assets/terminal-light.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./assets/terminal-dark.svg" />]
 
