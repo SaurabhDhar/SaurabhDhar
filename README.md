@@ -35,7 +35,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 [![website](./assets/instagram-dark.svg)](https://instagram.com/awaara_foodie)
 <br>
 <a href="https://calendly.com/saurabhdhar/let-s-talk">
-<img src="https://i0.wp.com/terralfletcher.com/wp-content/uploads/2023/10/schedule-a-call-button.png3" style="max-width: 20%;" />
+<img src="https://i0.wp.com/terralfletcher.com/wp-content/uploads/2023/10/schedule-a-call-button.png" style="max-width: 20%;" />
 </a>
 <br>
 
