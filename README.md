@@ -4,7 +4,7 @@ I'm a seasoned software engineer and technology enthusiast with 10 years of expe
 
 ## 🚀 About Me
 
-A serial entrepreneur, tech aficionado, and a firm believer in the power of growth hacking. With more than a decade in the IT and digital landscape, I've honed my skills in everything from full-stack development to digital marketing, building AI tools to SAAS products, and so much more.
+A serial entrepreneur, tech aficionado, and a firm believer in the power of growth hacking. With more than a decade in the IT and digital landscape, I've honed my skills in everything from full-stack development to digital marketing, building AI tools to SAAS products, and so much more. <br>
 <br>😎 Meta API Expert, Proficient with Facebook, Instagram & WhatsApp API.
 <br>🎖️ 𝟭𝟬𝟬+ Successful Projects on 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 & 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗔𝗣𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 5 ⭐️ 𝗿𝗲𝘃𝗶𝗲𝘄𝘀!
 <br>💡 𝟭𝟬+ 𝗬𝗲𝗮𝗿𝘀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
@@ -43,7 +43,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./assets/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./assets/terminal-dark.svg" />
-
+<br><br>
 Feel free to fork or star my repositories if you find them useful, and I'm always open to collaborating on interesting projects!
 
 <div align="center">
@@ -57,3 +57,9 @@ Feel free to fork or star my repositories if you find them useful, and I'm alway
     <img alt="github-snake" src="assets/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </picture>
 </div>
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/saurabhdhar/let-s-talk', text: 'Schedule a Meet', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
