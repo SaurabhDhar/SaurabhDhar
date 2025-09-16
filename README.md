@@ -9,7 +9,7 @@ A serial entrepreneur, tech aficionado, and a firm believer in the power of grow
 
 - 😎 Meta API Expert, skilled in Facebook, Instagram & WhatsApp APIs.
 - 🎖️ Over 100 successful projects in Facebook & Instagram API development with 5-star reviews!
-- 💡 10+ years of full-stack development experience.
+- 💡 12+ years of full-stack development experience.
   <br>
 
 ## ✅ Key Services
